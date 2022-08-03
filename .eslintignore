@@ -1,0 +1,9 @@
+/build/
+/config/
+/dist/
+/*.js
+/test/unit/coverage/
+/static/
+/lib/ext/*
+/lib/utils/*
+/lib/modules/*
