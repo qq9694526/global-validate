@@ -38,5 +38,8 @@ module.exports = {
       sourceMap: false,
       parallel: true
     })
-  ]
+  ],
+  externals: {
+    'element-ui': 'element-ui'
+  }
 };
